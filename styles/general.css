@@ -1,0 +1,13 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+body {
+  background-color: rgb(224, 224, 224);
+}
+
+header,
+footer {
+  text-align: center;
+}
