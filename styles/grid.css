@@ -1,0 +1,7 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgb(185, 227, 255);
+}

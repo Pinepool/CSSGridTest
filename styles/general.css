@@ -8,6 +8,7 @@ body {
 }
 
 header,
-footer {
+footer,
+main {
   text-align: center;
 }
